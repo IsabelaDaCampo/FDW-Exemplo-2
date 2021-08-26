@@ -1,0 +1,12 @@
+responsividade: adaptar visualização para tv, monitor de diferentes tamanhos, celular, tablet
+
+@MEDIA (WIDTH < 300)
+@MEDIA (WIDTH < 700)
+@MEDIA (WIDTH < 1000)
+
+FRAMEWORK
+- é uma biblioteca, feita para facilitar o trabalho
+- bootstrap começou com isto
+- cdn: Rede de fornecimento de conteúdo
+
+tag lang -> informa pra traduzir o site
